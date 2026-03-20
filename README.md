@@ -5,6 +5,7 @@ SmartMail Assistant is a powerful AI-powered Chrome extension that helps you dra
 
 <!-- Add a screenshot or GIF later -->
 
+
 ✨ Features
 
 ⚡ Instant Reply Generation: Generate context-aware email replies in seconds using Google Gemini AI.
