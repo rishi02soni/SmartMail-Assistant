@@ -62,6 +62,7 @@ cd SmartMail-Assistant
 cd backend
 
 
+
 Create src/main/resources/application.yml:
 
 gemini:
